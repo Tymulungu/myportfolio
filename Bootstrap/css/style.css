@@ -1,0 +1,27 @@
+/*-----Landing Page-----*/
+
+
+.navbar-brand:hover {
+  transform:scale(2);
+  transition-duration:1s;
+}
+.btn-lg {
+  background-color:rgb(71, 7, 128);
+}
+.wrapper {
+  width:80%;
+  margin:auto;
+  box-shadow:0px 6px 6px 6px;
+}
+.row {
+  margin-top:20px;
+  text-align:center;
+}
+
+.col-md-2 {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+        display:flex;
+        justify-content: space-around;
+}
